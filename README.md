@@ -111,20 +111,27 @@ marks_data.predict(X_n1_1)
 
 ```
 ## Dataset Information
+![Screenshot 2024-02-25 020526](https://github.com/amurthavaahininagarajan/basic-nn-model/assets/118679102/ed18c24d-a0b1-46d0-b25d-ca2fa7b4adc0)
 
-Include screenshot of the dataset
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![Screenshot 2024-02-25 020209](https://github.com/amurthavaahininagarajan/basic-nn-model/assets/118679102/9f058a72-f4f1-4e1a-9f7c-4f23ed075c77)
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![Screenshot 2024-02-25 020238](https://github.com/amurthavaahininagarajan/basic-nn-model/assets/118679102/e1f55959-9364-4f74-abc6-89e292c71411)
+
 
 ### New Sample Data Prediction
+![Screenshot 2024-02-25 020303](https://github.com/amurthavaahininagarajan/basic-nn-model/assets/118679102/d9682226-c3b2-4125-aef8-e542328b422e)
+
+### RESULT:
+Thus a neural network regression model is developed for the created dataset.
+
 
 Include your sample input and output here
 
