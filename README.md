@@ -129,12 +129,6 @@ marks_data.predict(X_n1_1)
 ### New Sample Data Prediction
 ![Screenshot 2024-02-25 020303](https://github.com/amurthavaahininagarajan/basic-nn-model/assets/118679102/d9682226-c3b2-4125-aef8-e542328b422e)
 
-### RESULT:
-Thus a neural network regression model is developed for the created dataset.
-
-
-Include your sample input and output here
 
 ## RESULT
-
-Include your result here
+Thus a neural network regression model is developed for the created dataset.
