@@ -11,7 +11,7 @@ For the problem statement we have dealt with , we have developed a neural networ
 
 ## Neural Network Model
 
-I![image](https://github.com/amurthavaahininagarajan/basic-nn-model/assets/118679102/27ab40fd-bba5-414f-a33c-5ae1407e5058)
+
 
 
 ## DESIGN STEPS
